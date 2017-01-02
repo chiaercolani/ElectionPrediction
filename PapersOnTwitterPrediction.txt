@@ -1,0 +1,17 @@
+
+Tumasjan et al. 2010 (everyone references him):
+(Amount of tweets, linear prediction)
+https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjqp9O79qPRAhWCvhQKHb-SAq4QFggcMAA&url=http%3A%2F%2Fwww.aaai.org%2Focs%2Findex.php%2FICWSM%2FICWSM10%2Fpaper%2Fdownload%2F1441%2F1852&usg=AFQjCNFnJCLUH96xhdmhtDbDnJs4Dtx8jg
+
+Daniel Gayo-Avello et al. 2011:
+(Amount and sentiment, linear prediction)
+http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/viewFile/2862/3254
+
+
+Adam Bermingham and Alan F. Smeaton 2011:
+(Amount and sentiment linear prediction)
+https://www.aclweb.org/anthology/W/W11/W11-3702.pdf
+
+A bunch of people 2012:
+(9 features, Lasso prediction)
+http://snap.stanford.edu/social2012/papers/shi.pdf
