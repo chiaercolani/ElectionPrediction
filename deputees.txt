@@ -7,35 +7,35 @@ Scott Jones, republican, lost in 2016
 
 https://ballotpedia.org/United_States_House_of_Representatives_elections,_2016
 
-marco rubio (won) 52.0 - 1.8M
-patrick murphy (lost) 44.3 - 12.3k
+marco rubio (won) 52.0 - 1.8M uniqueid:27122
+patrick murphy (lost) 44.3 - 12.3k uniqueid:5978
 
-tammy duckworth (won) 54.9 - 36.6k
-Mark Kirk(lost) 39.8 - 52.8k
+tammy duckworth (won) 54.9 - 36.6k uniqueid:2853
+Mark Kirk(lost) 39.8 - 52.8k uniqueid:4550
 
-maggie hassan (won) 47.49 - 17.6K
-Kelly Ayotte (lost) 47.87 - 58.8k
+Maggie hassan (won) 47.97 - 17.6K uniqueid:672
+Kelly Ayotte (lost) 47.87 - 58.8k uniqueid: 11043
 
-john mccain (won) 53.0 - 2.09M
-Ann Kirkpatrick (lost) 41.0 - 11.6k
+john mccain (won) 53.0 - 2.09M uniqueid:21758
+Ann Kirkpatrick (lost) 41.0 - 11.6k uniqueid:534
 
-Kamala Harris(won) 61.8 - 143K
-Loretta Sanchez(lost) 38.2 - 19.9k
+Kamala Harris(won) 61.8 - 143K uniqueid: 3202
+Loretta Sanchez(lost) 38.2 - 19.9k uniqueid: 885
 
-Chuck Schumer(won) 70.4 - 207k
-Wendy Long(lost) 27.4 - 7345
+Chuck Schumer(won) 70.4 - 207k uniqueid:2759
+Wendy Long(lost) 27.4 - 7345 uniqueid:1007
 
-Ron Wyden(won) 56.1 - 55.1k
-Mark Callahan(lost) 33.35
+Ron Wyden(won) 56.1 - 55.1k uniqueid:1365
+Mark Callahan(lost) 33.35 uniqueid:
 
-Richard Blumenthal(won) 63.2 - 48.2k
-Dan Carter(lost) 34.6 - 1311
+Richard Blumenthal(won) 63.2 - 48.2k uniqueid:915
+Dan Carter(lost) 34.6 - 1311 uniqueid: 128
 
-Rob Portman(won) 58.0 - 59.7k
-Ted Strickland(lost) 37.1 - 16.7k
+Rob Portman(won) 58.0 - 59.7k uniqueid:1567
+Ted Strickland(lost) 37.1 - 16.7k uniqueid:2566
 
-Johnny Isakson(won) 54.8 - 27.6k
-Jim Barksdale(lost) 41.0 - 1133 
+Johnny Isakson(won) 54.8 - 27.6k uniqueid:834
+Jim Barksdale(lost) 41.0 - 1133  uniqueid: 354
 
 
 https://en.wikipedia.org/wiki/United_States_Senate_elections,_2016
