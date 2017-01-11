@@ -7,65 +7,62 @@ Scott Jones, republican, lost in 2016
 
 https://ballotpedia.org/United_States_House_of_Representatives_elections,_2016
 
-marco rubio (won) 52.0 - 1.8M uniqueid:27122
-patrick murphy (lost) 44.3 - 12.3k uniqueid:5978
+marco rubio (won) 52.0 - 1.8M uniqueid:27122 tot 73367
+patrick murphy (lost) 44.3 - 12.3k uniqueid:5978 tot 21705
 
-tammy duckworth (won) 54.9 - 36.6k uniqueid:2853
-Mark Kirk(lost) 39.8 - 52.8k uniqueid:4550
+tammy duckworth (won) 54.9 - 36.6k uniqueid:2853 tot 4584
+Mark Kirk(lost) 39.8 - 52.8k uniqueid:4550 tot 6541
 
-Maggie hassan (won) 47.97 - 17.6K uniqueid:672
-Kelly Ayotte (lost) 47.87 - 58.8k uniqueid: 11043
+Maggie hassan (won) 47.97 - 17.6K uniqueid:672 tot 1296
+Kelly Ayotte (lost) 47.87 - 58.8k uniqueid: 11043 tot 25570
 
-john mccain (won) 53.0 - 2.09M uniqueid:21758
-Ann Kirkpatrick (lost) 41.0 - 11.6k uniqueid:534
+john mccain (won) 53.0 - 2.09M uniqueid:21758 tot 40945
+Ann Kirkpatrick (lost) 41.0 - 11.6k uniqueid:534 tot 968
 
-Kamala Harris(won) 61.8 - 143K uniqueid: 3202
-Loretta Sanchez(lost) 38.2 - 19.9k uniqueid: 885
+Kamala Harris(won) 61.8 - 143K uniqueid: 3202 tot 5930
+Loretta Sanchez(lost) 38.2 - 19.9k uniqueid: 885 tot 1333
 
-Chuck Schumer(won) 70.4 - 207k uniqueid:2759
-Wendy Long(lost) 27.4 - 7345 uniqueid:1007
+Chuck Schumer(won) 70.4 - 207k uniqueid:2759 tot 4961
+Wendy Long(lost) 27.4 - 7345 uniqueid:1007 tot 1872
 
-Ron Wyden(won) 56.1 - 55.1k uniqueid:1365
-Mark Callahan(lost) 33.35 uniqueid:
+Richard Blumenthal(won) 63.2 - 48.2k uniqueid:915 tot 1572
+Dan Carter(lost) 34.6 - 1311 uniqueid: 128 tot 320
 
-Richard Blumenthal(won) 63.2 - 48.2k uniqueid:915
-Dan Carter(lost) 34.6 - 1311 uniqueid: 128
+Rob Portman(won) 58.0 - 59.7k uniqueid:1567 tot 3770
+Ted Strickland(lost) 37.1 - 16.7k uniqueid:2566 tot 6301
 
-Rob Portman(won) 58.0 - 59.7k uniqueid:1567
-Ted Strickland(lost) 37.1 - 16.7k uniqueid:2566
+Johnny Isakson(won) 54.8 - 27.6k uniqueid:834 tot 1626
+Jim Barksdale(lost) 41.0 - 1133  uniqueid: 354 tot 1058
 
-Johnny Isakson(won) 54.8 - 27.6k uniqueid:834
-Jim Barksdale(lost) 41.0 - 1133  uniqueid: 354
+Roy Blunt (win) 49.3 - 48.7k uniqueid:1202 tot: 2309
+Jason Kander(lost) 46.2 - 39.9k uniqued: 2573 tot 6148
 
-Roy Blunt (win) 49.3 - 48.7k
-Jason Kander(lost) 46.2 - 39.9k
+Catherine Cortez Masto(won) 47.1 - 16.2k uniqueid: 2145 tot 6595
+Joe Heck(lost) 44.7 - 12.1k uniqueid:1471 tot 2547
 
-Catherine Cortez Masto(won) 47.1 - 16.2k
-Joe Heck(lost) 44.7 - 12.1k
+Patty Murray(won) 59.04 - 59.6k uniqueid:1698 tot 5063
+Chris Vance(lost) 40.96 - 1163 uniqueid: 252 tot 723
 
-Patty Murray(won) 59.04 - 59.6k
-Chris Vance(lost) 40.96 - 1163
+Jerry Moran (won) 62.1 - 30.4k uniqueid: 484 tot 771
+Patrick Wiesner(lost) 32.2 - 48 uniqueid: 13 tot 23
 
-Jerry Moran (won) 62.1 - 30.4k
-Patrick Wiesner(lost) 32.2 - 48 LOL
+Mike Crapo(won) 66.1 - 26.8k uniqueid: 2111 tot 3034
+Jerry Sturgill(lost) 27.8 - 168 uniqueid: 79 tot 148
 
-Mike Crapo(won) 66.1 - 26.8k
-Jerry Sturgill(lost) 27.8 - 168 LOL
+Todd Young(won) 52.1 - 12.6k uniqueid: 1088 tot 2959
+Evan Bayh(lost) 42.2 - 3631 uniqueid: 351 tot 459
 
-Todd Young(won) 52.1 - 12.6k
-Evan Bayh(lost) 42.2 - 3631
+Chuck Grassley(won) 60.1 - 106k uniqueid: 2841 tot 7644
+Patty Judge(lost) 35.7 - 1975 uniqueid: 540 tot 1596
 
-Chuck Grassley(won) 60.1 - 106k
-Patty Judge(lost) 35.7 - 1975
+Rand Paul(won) 57.27 - 1.04M uniqueid: 13915 tot 26249
+Jim Gray(lost) 42.73 -16.1k uniqueid: 306 tot 505
 
-Rand Paul(won) 57.27 - 1.04M
-Jim Gray(lost) 42.73 -16.1k
+John N. Kennedy(won) 60.65 - 6133 uniqueid: 259 tot 722
+Foster Campbell(lost) 39.35 - 6456 uniqueid: 231 tot 905
 
-John N. Kennedy(won) 60.65 - 6133
-Foster Campbell(lost) 39.35 - 6456
-
-Chris Van Hollen(won) 60.9 - 32.8k
-Kathy Szeliga(lost) 35.7 - 3556
+Chris Van Hollen(won) 60.9 - 32.8k uniqueid: 518 tot 719
+Kathy Szeliga(lost) 35.7 - 3556 uniqueid: 411 tot 960
 
 
 
