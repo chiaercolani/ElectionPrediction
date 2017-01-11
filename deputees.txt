@@ -1,4 +1,4 @@
-kjghMike Bost, Republican Congressman, ran in 2016. won
+Mike Bost, Republican Congressman, ran in 2016. won
 Gary Johnson, Libertarian, did not win
 Paul Ryan
 Doug LaMalfa, republican, won in california in 2016
@@ -21,7 +21,7 @@ Ann Kirkpatrick (lost) 41.0 - 11.6k uniqueid:534 tot 968
 
 Kamala Harris(won) 61.8 - 143K uniqueid: 3202 tot 5930
 Loretta Sanchez(lost) 38.2 - 19.9k uniqueid: 885 tot 1333
-
+asdf
 Chuck Schumer(won) 70.4 - 207k uniqueid:2759 tot 4961
 Wendy Long(lost) 27.4 - 7345 uniqueid:1007 tot 1872
 
@@ -58,6 +58,7 @@ Patty Judge(lost) 35.7 - 1975 uniqueid: 540 tot 1596
 Rand Paul(won) 57.27 - 1.04M uniqueid: 13915 tot 26249
 Jim Gray(lost) 42.73 -16.1k uniqueid: 306 tot 505
 
+adsf
 John N. Kennedy(won) 60.65 - 6133 uniqueid: 259 tot 722
 Foster Campbell(lost) 39.35 - 6456 uniqueid: 231 tot 905
 
